@@ -1,0 +1,12 @@
+# Function dependencies, for example:
+# package>=version
+pandas
+imap_tools
+google-cloud-bigquery
+google-auth
+xlsxwriter
+fsspec
+gcsfs
+openpyxl
+db-dtypes
+git+https://github.com/tweepy/tweepy.git
